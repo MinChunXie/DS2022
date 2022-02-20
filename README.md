@@ -15,4 +15,5 @@
 ### 3.「資料結構」與「演算法」到底是什麼？
 
 
-![image](https://user-images.githubusercontent.com/100060507/154831288-9d967e11-6184-4eba-af3c-d13527a84321.png)
+
+![image](https://user-images.githubusercontent.com/100060507/154831361-3d839938-ae7e-45a4-90b5-7f00b4999554.png)
