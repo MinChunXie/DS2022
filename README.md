@@ -7,6 +7,7 @@
 
 ### 1. 什麼是資料結構?
 
+![image](https://user-images.githubusercontent.com/100060507/154831416-375e4fe1-f3e9-4fc2-a9d6-a6490ea0213c.png)
 
 
 ### 2. 為什麼我們要學習資料結構?
