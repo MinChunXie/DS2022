@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/100060507/155869719-84ea608d-2619-4c07-b73f-0040be44e51f.png)
 
 ## Lab1-2: 請建立第一個lab1.md檔並且說明以下的問題, 並同時找一張圖來說明
+![image](https://user-images.githubusercontent.com/100060507/155869830-d2e7cb6d-cc9c-4a5c-803e-5ed22b09ecee.png)
 
 
 ### 1. 什麼是資料結構?
