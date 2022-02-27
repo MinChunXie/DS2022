@@ -12,8 +12,11 @@
 ![image](https://user-images.githubusercontent.com/100060507/154831416-375e4fe1-f3e9-4fc2-a9d6-a6490ea0213c.png)
 
 ### 2. 為什麼我們要學習資料結構?
+![image](https://user-images.githubusercontent.com/100060507/155869924-6b8bd60b-c7db-47b7-9f5b-801c2f0c8a69.png)
+
 
 ### 3.「資料結構」與「演算法」到底是什麼？
+https://www.youtube.com/watch?v=WNN2-jw1EVU
 
 ## Lab1-3 在你的Google Drive, 建立你的第一個Colab Notebook
 ![image](https://user-images.githubusercontent.com/100060507/155869644-6a0e3537-2877-412c-b2d1-fa0ae75a606e.png)
