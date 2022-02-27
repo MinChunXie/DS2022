@@ -1,4 +1,4 @@
-# Lb1.md
+# Lab1 起手式: 什麼是資料結構, GitHub, Colab 
 
 ## Lab1-1 用gmail建立一個的GitHub的帳號(OK)
 ![image](https://user-images.githubusercontent.com/100060507/155869719-84ea608d-2619-4c07-b73f-0040be44e51f.png)
