@@ -1,4 +1,5 @@
 # Lab3 什麼是時間複雜度(Time Complexity)? 空間複雜度(Space Complexity)？
+![image](https://user-images.githubusercontent.com/100060507/159150112-575a1e3a-99d2-49db-8efc-06543c2f69aa.png)
 ## Lab3-1 什麼是時間複雜度(Time Complexity)? 
 ![image](https://user-images.githubusercontent.com/100060507/159149879-fd37b61d-ba68-4058-8d60-f54f51e8cd8e.png)
 ## Lab3-2 什麼是空間複雜度(Space Complexity)？
