@@ -10,5 +10,11 @@
 
 ## Lab 5-3 Queue & Stack 實戰
 
+![image](https://user-images.githubusercontent.com/100060507/167283922-cd65fd75-80a9-490b-8105-c21263a3f49f.png)
 
-![image](https://user-images.githubusercontent.com/100060507/163703375-9e019362-ff38-4f35-acba-4d5197557fae.png)
+![image](https://user-images.githubusercontent.com/100060507/167283940-d71377b3-56e2-4313-b07d-615a47b352ef.png)
+
+![image](https://user-images.githubusercontent.com/100060507/167283955-93c50d63-59d4-48dc-8f3c-89fcd2c4eb73.png)
+
+![image](https://user-images.githubusercontent.com/100060507/167283970-b104f818-54b5-4361-bd1e-1682c63ac477.png)
+
