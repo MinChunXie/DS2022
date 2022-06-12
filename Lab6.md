@@ -28,3 +28,4 @@
 ![image](https://user-images.githubusercontent.com/100060507/173218589-f2a2d68f-202a-4169-81ba-ea5ee516a5a2.png)
 
 ## 10. 如何使用10, 5, 21, 9, 13, 28, 3, 4, 1, 17, 32數字建立二元樹, 並使用後序列印, 並計算此二元樹的深度(i.e., 層數) ?
+![image](https://user-images.githubusercontent.com/100060507/173219015-63ee35c7-1bbf-4190-8837-f6dbabcb3315.png)
