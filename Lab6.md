@@ -16,6 +16,7 @@
 ![image](https://user-images.githubusercontent.com/100060507/173217145-8501683f-9c1e-46a1-aea5-a597fb69750e.png)
 
 ## 6. Level 10 的Binary Tree 最多可以有幾個Ｎode, 為什麼呢?
+![image](https://user-images.githubusercontent.com/100060507/173217312-4054eb15-704e-49e1-9ac3-11470fd85294.png)
 
 ## 7. 用Python寫一個程式可輸入Level數，並自動計算此Binary Tree 最多可以有 幾個Ｎode。
 
