@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/100060507/173217312-4054eb15-704e-49e1-9ac3-11470fd85294.png)
 
 ## 7. 用Python寫一個程式可輸入Level數，並自動計算此Binary Tree 最多可以有 幾個Ｎode。
+![image](https://user-images.githubusercontent.com/100060507/173217391-daadc758-35b5-43d8-b993-f3f53f403071.png)
 
 ## 8. 如何使用10, 5, 21, 9, 13, 28, 3, 4, 1, 17, 32數字建立二元樹, 並使用中序列印, 並計算此二元樹的深度(i.e., 層數) ?
 
