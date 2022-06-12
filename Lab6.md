@@ -13,3 +13,7 @@
 ![image](https://user-images.githubusercontent.com/100060507/169735194-f58af4a9-5669-42d7-a9b7-f4d11b4623e0.png)
 
 ## 5.如何使用10, 5, 21, 9, 13, 28, 3, 4, 1, 17, 32系列(List)數字建立二元樹, 這個程式列出執行結果時，同時會列出此陣列的索引值?? 
+![image](https://user-images.githubusercontent.com/100060507/173217145-8501683f-9c1e-46a1-aea5-a597fb69750e.png)
+
+## 6. Level 10 的Binary Tree 最多可以有幾個Ｎode, 為什麼呢?
+
