@@ -10,3 +10,13 @@ Ans: 在解決問題時，我們經常會遇到無法輕鬆使用 loop 或是 if
 ### 3. 參考程式今日介紹的程式 (R100, R110, R120), 完成1+2+...+30的加法練習
 ![image](https://user-images.githubusercontent.com/100060507/173220533-65dd07b5-2f47-4c40-bfbc-bcb3864b9f2a.png)
 ![image](https://user-images.githubusercontent.com/100060507/173220740-d61fff25-1a1d-491b-9d5f-98d8a0303f93.png)
+## Lab 7-2 遞迴圖形 (e.g., Fractal in Nature)
+### 1.Add (3,1), (4,0), (5,1)
+![image](https://user-images.githubusercontent.com/100060507/174468240-5d53e027-6b5c-483c-9188-019815c5b868.png)
+### 2.Add (1.5, 0),(2, 0.5),(1, 0.5),(1.5, 1)
+![image](https://user-images.githubusercontent.com/100060507/174468296-d605a66e-31fc-4397-9005-38b56f7487a6.png)
+### 3. 海龜的“指令”只是一串字符: 試試看畫個八卦來看看
+![image](https://user-images.githubusercontent.com/100060507/174468324-7ac7b5bc-24e7-41eb-b417-b0a3c8503e0e.png)
+### 4. 海龜的“指令”只是一串字符: 試試看畫個六邊形 & 四邊形來看看
+![image](https://user-images.githubusercontent.com/100060507/174468572-e8a67984-21db-418b-bb50-e4ab26a71d41.png)
+![image](https://user-images.githubusercontent.com/100060507/174468592-59972c74-e836-4732-9a3c-42b4f5a655b2.png)
