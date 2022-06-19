@@ -20,3 +20,5 @@ Ans: 在解決問題時，我們經常會遇到無法輕鬆使用 loop 或是 if
 ### 4. 海龜的“指令”只是一串字符: 試試看畫個六邊形 & 四邊形來看看
 ![image](https://user-images.githubusercontent.com/100060507/174468572-e8a67984-21db-418b-bb50-e4ab26a71d41.png)
 ![image](https://user-images.githubusercontent.com/100060507/174468592-59972c74-e836-4732-9a3c-42b4f5a655b2.png)
+### 5. 用"字符串重寫"的方法,畫個八卦來看看
+![image](https://user-images.githubusercontent.com/100060507/174468890-4827364e-2480-4975-94d3-823eaff07615.png)
