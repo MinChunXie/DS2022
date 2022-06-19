@@ -22,3 +22,11 @@ Ans: 在解決問題時，我們經常會遇到無法輕鬆使用 loop 或是 if
 ![image](https://user-images.githubusercontent.com/100060507/174468592-59972c74-e836-4732-9a3c-42b4f5a655b2.png)
 ### 5. 用"字符串重寫"的方法,畫個八卦來看看
 ![image](https://user-images.githubusercontent.com/100060507/174468890-4827364e-2480-4975-94d3-823eaff07615.png)
+### 6. 執行以下設定(transformations: 1 --> 3), 看到的圖形為何? 請解釋為什麼會有這樣改變?
+![image](https://user-images.githubusercontent.com/100060507/174468948-4dc461a3-209e-4036-a8eb-7531746d9b5d.png)
+### 7. 執行以下設定(iterations:90 --> 45), 看到的圖形為何? 請解釋為什麼會有這樣改變?
+![image](https://user-images.githubusercontent.com/100060507/174468998-598c58e3-0db7-4b79-a2f5-411775680598.png)
+### 8. 試試看參考分支龜圖形 (Branching Turtle Graphics)的方式, 完成以下圖形
+![image](https://user-images.githubusercontent.com/100060507/174469821-dd77a65f-f957-425f-9e50-d542016ad982.png)
+### 9；A. 參考l_plot()方式, 完成以下圖形
+![image](https://user-images.githubusercontent.com/100060507/174470022-6b044ee3-df6b-48a3-83b0-ee80845d4b96.png)
